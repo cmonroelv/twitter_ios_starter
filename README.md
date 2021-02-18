@@ -2,7 +2,7 @@
 
 **Twitter 2** is a basic twitter app to read your tweets.
 
-Time spent: **5.30** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
